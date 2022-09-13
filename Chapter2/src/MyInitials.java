@@ -9,12 +9,14 @@ public class MyInitials
 
 	public static void main(String[] args) 
 	{
-		
+		System.out.println("M.M");
 
 	}
 
 }
 /* Screen Dump
+
+M.M
 
 
 */
