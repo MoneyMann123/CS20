@@ -1,4 +1,9 @@
-
+/*
+	Program: MyInitials.java          Date: September 13, 2022
+	Author: Money Mann 
+	School: CHHS
+	Course: Computer Science 20
+*/
 public class MyInitials 
 {
 
@@ -9,3 +14,7 @@ public class MyInitials
 	}
 
 }
+/* Screen Dump
+
+
+*/
