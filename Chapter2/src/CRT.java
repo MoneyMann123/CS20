@@ -23,7 +23,7 @@ public class CRT
 		 	package gradecalculator
 		 	
 		 6. 
-		 	public class AverageScore
+		 	public class AverageScore  
 		 	
 		 7. 
 		 	"Source code" is the code written by a programmer and "bytecode" is when the source code is compiled
